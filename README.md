@@ -9,6 +9,9 @@ Esse trabalho está dividido em quatro partes:
 Este é um documento com todos os detalhes de escopo, limitações e prazos sobre o restante do projeto. 
 É o documento responsável por guiar todo o restante.
 
+![image](https://github.com/matheusaraujotrd/bellabeat/assets/75196977/42dee7e7-5f74-4da4-8d2a-b646c6022f3d)
+
+
 ## 01-02 - Relatorio_Limpeza
 
 Um notebook que descreve os conjuntos de dados utilizados e documenta os procedimentos de limpeza antes da importação no Power BI.
