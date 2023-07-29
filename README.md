@@ -26,7 +26,7 @@ Dashboard interativo em dois formatos (.pbix e .pdf) para análise dos dados.
 ## 04 - Apresentação
 
 Último e principal entregável do estudo de caso, responsável por compilar todos os dados adquiridos nos passos anteriores e, com isso,
-fornecer insights importantes para o negócio.
+fornecer insights importantes para o negócio. Disponível em .pdf e .pptx.
 
 ![image](https://github.com/matheusaraujotrd/bellabeat/assets/75196977/c94ade36-5e76-4e08-84ee-7f2f988725ac)
 
