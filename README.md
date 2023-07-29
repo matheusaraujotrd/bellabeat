@@ -17,6 +17,9 @@ Um notebook que descreve os conjuntos de dados utilizados e documenta os procedi
 
 Dashboard interativo em dois formatos (.pbix e .pdf) para análise dos dados.
 
+![image](https://github.com/matheusaraujotrd/bellabeat/assets/75196977/e700cad9-81be-4025-a938-61df3f4ae4d5)
+
+
 ## 04 - Apresentação
 
 Último e principal entregável do estudo de caso, responsável por compilar todos os dados adquiridos nos passos anteriores e, com isso,
